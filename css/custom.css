@@ -4,6 +4,10 @@
   max-width: none;
 }
 
+.navBarLogo{
+  margin-right: 50px;
+}
+
 .nav-bar {
   height: 75px;
   max-height: 75px;
